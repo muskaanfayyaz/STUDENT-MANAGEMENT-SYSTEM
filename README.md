@@ -8,7 +8,6 @@ This is a simple command-line application written in TypeScript that helps manag
 - TypeScript installed globally (`npm install -g typescript`).
 
 ## Installation
-
 1. Clone the repository:
    ```bash
    git clone <repository-url>
